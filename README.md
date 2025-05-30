@@ -8,7 +8,7 @@ Hi, I'm Marco — a full stack developer, game designer, and the founder of [SB 
 - 🎵 [Shineburst]: Music, vinyl, and creative expression (Original Music, Merch Vinyls)
 - 🕹️ [Lunarcade Studios]: Hardware builds and retro game projects (Desktop Arcade Cabinet)
 - 🍰 [M⌒o’s Bakery]: Cozy-themed experimental baking brand (Branding, Merch)
-- - 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
+- 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
 
 ## 🚀 Current Projects
 - 🧩 **PolarisKit**: Modular starter kit for Pygame — includes scene management, pause menu, and scalable project structure
