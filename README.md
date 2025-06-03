@@ -1,6 +1,7 @@
-# 🌌 Marco | SB Studios
+# 🌌 Marco Gonzalez  
+Founder of SB Studios | Full Stack Dev · Game Designer · Builder
 
-Hi, I'm Marco — a full stack developer, game designer, and the founder of [SB Studios].
+Hi, I'm Marco — a developer and designer working across games, tools, music, and hardware under the SB Studios banner.
 
 ## What I Work On
 - 🎮 [Polaris Studios]: 2D games & custom engine tooling (Galactic Tour 64, Callisto’s Trial)
