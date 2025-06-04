@@ -17,6 +17,14 @@ Hi, I'm Marco — a developer and designer working across games, tools, music, a
 - 💻 **SB Studios Website**: A central hub for all branches, merch, and project showcases (built with Astro)
 - 🎮 **Console**: A compact custom gaming console designed from scratch (case design, hardware, and game loading)
 
+
+## 🔐 About Code Access
+
+Most of my work lives in private repositories to protect the IP behind SB Studios games, tools, and hardware projects. I’m a solo developer building original content from the ground up, from the game engine to the physical console.
+
+If you're an employer, recruiter, or collaborator and would like to view the source code:  
+> 📩 **Send me a message.** I’m happy to grant access or walk through the architecture, design decisions, and technical stack.
+
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/marco-a-gonzalez99)
 - or just drop a ⭐️ on something cool.
