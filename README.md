@@ -17,6 +17,16 @@ Hi, I'm Marco — a developer and designer working across games, tools, music, a
 - 💻 **SB Studios Website**: A central hub for all branches, merch, and project showcases (built with Astro)
 - 🎮 **Console**: A compact custom gaming console designed from scratch (case design, hardware, and game loading)
 
+## 📚 Currently Exploring
+- Advanced Python design patterns
+- Pygame performance optimization
+- Astro / modern static site techniques
+- 3D modeling workflows for hardware prototyping
+
+## 🔗 Explore More
+- [PolarisKit Showcase](https://github.com/marcogonzalez99/PolarisKitShowcase)
+- [Callisto’s Trial Showcase](https://github.com/marcogonzalez99/CallistosTrialShowcase)
+- [Galactic Tour 64 Showcase](https://github.com/marcogonzalez99/GalacticKart64Showcase)
 
 ## 🔐 About Code Access
 
