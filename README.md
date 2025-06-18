@@ -1,7 +1,7 @@
 # 🌌 Marco Gonzalez  
 Founder of SB Studios | Full Stack Dev · Game Designer · Builder
 
-Hi, I'm Marco — a developer and designer working across games, tools, music, and hardware under the SB Studios banner.
+Hi, I'm Marco, a developer and designer working across games, tools, music, and hardware under the SB Studios banner.
 
 ## What I Work On
 - 🎮 [Polaris Studios]: 2D games & custom engine tooling (Galactic Tour 64, Callisto’s Trial)
@@ -12,7 +12,7 @@ Hi, I'm Marco — a developer and designer working across games, tools, music, a
 - 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
 
 ## Current Projects
-- 🧩 **PolarisKit**: Modular starter kit for Pygame — includes scene management, pause menu, and scalable project structure
+- 🧩 **PolarisKit**: Modular starter kit for Pygame, includes scene management, pause menu, and scalable project structure
 - 🏎️ **Galactic Tour 64**: Top-down arcade racing game with CC unlocks, trophies, and a full game loop
 - 💻 **SB Studios Website**: A central hub for all branches, merch, and project showcases (built with Astro)
 - 🎮 **Console**: A compact custom gaming console designed from scratch (case design, hardware, and game loading)
