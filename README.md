@@ -3,6 +3,8 @@ Founder of SB Studios | Full Stack Dev · Game Designer · Builder
 
 Hi, I'm Marco, a developer and designer working across games, tools, music, and hardware under the SB Studios banner.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J41IBU2Y)
+
 ## What I Work On
 - 🎮 [Polaris Studios]: 2D games & custom engine tooling (Galactic Tour 64, Callisto’s Trial)
 - 🧪 [Nebulab]: Developer utilities and web tools (ZPL Generator, Portfolio Tools)
