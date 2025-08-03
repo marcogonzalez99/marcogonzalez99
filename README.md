@@ -13,11 +13,35 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 - 🍰 [M⌒o’s Bakery]: Cozy-themed experimental baking brand (Branding, Merch)
 - 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
 
-## Current Projects
-- 🧩 **PolarisKit**: Modular starter kit for Pygame, includes scene management, pause menu, and scalable project structure
-- 🏎️ **Galactic Tour 64**: Top-down arcade racing game with CC unlocks, trophies, and a full game loop
-- 💻 **SB Studios Website**: A central hub for all branches, merch, and project showcases (built with Astro)
-- 🎮 **Console**: A compact custom gaming console designed from scratch (case design, hardware, and game loading)
+## 📦 Published Products
+
+🧩 [**PolarisKit**](https://ko-fi.com/s/ba42429718)
+  - A modular Python toolkit for beginner game developers.  
+  Built on Pygame, it includes scene management, transitions, audio handling, save/load, and a debug-ready pause menu.  
+  Designed for students, solo devs, and anyone building polished 2D games in Python.
+
+## 🚀 Current Projects
+
+🧩 **PolarisKit**  
+- Modular starter kit for Pygame, includes scene management, pause menu, save/load, audio, and scalable project structure
+
+🎮 **PolarisKit Controller Expansion** *(In Progress)*  
+- Add seamless gamepad support with automatic fallback to keyboard, plug-and-play input abstraction for Pygame projects
+
+🗺️ **PolarisKit Tiled Expansion** *(In Progress)*  
+- Load Tiled map files with the PolarisTileEngine, great for top-down or tile-based level layouts
+
+🏓 **PolarisPong** *(In Development)*  
+- A fully-featured pong-style game with 4 game modes, ball/paddle/field customization, achievements, and M64 styling
+
+🏎️ **Galactic Tour 64**  
+- Top-down arcade racing game with CC unlocks, trophies, multiple cups, and a full single-player game loop
+
+💻 **SB Studios Website**  
+- A central hub for all SB Studios branches, products, and project showcases, built with Astro and Sanity CMS
+
+🎮 **Custom Console (M64)**  
+- A compact gaming console designed from scratch, including case modeling, hardware wiring, and original game support
 
 ## 📚 Currently Exploring
 - Advanced Python design patterns
