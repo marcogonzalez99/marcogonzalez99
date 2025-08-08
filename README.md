@@ -13,6 +13,8 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 - 🍰 [M⌒o’s Bakery]: Cozy-themed experimental baking brand (Branding, Merch)
 - 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
 
+---
+
 ## 📦 Published Products
 
 🧩 [**PolarisKit**](https://ko-fi.com/s/ba42429718)
@@ -23,25 +25,27 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 ## 🚀 Current Projects
 
 🧩 **PolarisKit**  
-- Modular starter kit for Pygame, includes scene management, pause menu, save/load, audio, and scalable project structure
+Modular starter kit for Pygame, includes scene management, pause menu, save/load, audio, and scalable project structure
 
 🎮 **PolarisKit Controller Expansion** *(In Progress)*  
-- Add seamless gamepad support with automatic fallback to keyboard, plug-and-play input abstraction for Pygame projects
+Add seamless gamepad support with automatic fallback to keyboard, plug-and-play input abstraction for Pygame projects
 
 🗺️ **PolarisKit Tiled Expansion** *(In Progress)*  
-- Load Tiled map files with the PolarisTileEngine, great for top-down or tile-based level layouts
+Load Tiled map files with the PolarisTileEngine, great for top-down or tile-based level layouts
 
 🏓 **PolarisPong** *(In Development)*  
-- A fully-featured pong-style game with 4 game modes, ball/paddle/field customization, achievements, and M64 styling
+A fully-featured pong-style game with 4 game modes, ball/paddle/field customization, achievements, and M64 styling
 
 🏎️ **Galactic Tour 64**  
-- Top-down arcade racing game with CC unlocks, trophies, multiple cups, and a full single-player game loop
+Top-down arcade racing game with CC unlocks, trophies, multiple cups, and a full single-player game loop
 
 💻 **SB Studios Website**  
-- A central hub for all SB Studios branches, products, and project showcases, built with Astro and Sanity CMS
+A central hub for all SB Studios branches, products, and project showcases, built with Astro and Sanity CMS
 
 🎮 **Custom Console (M64)**  
-- A compact gaming console designed from scratch, including case modeling, hardware wiring, and original game support
+A compact gaming console designed from scratch, including case modeling, hardware wiring, and original game support
+
+---
 
 ## 📚 Currently Exploring
 - Advanced Python design patterns
