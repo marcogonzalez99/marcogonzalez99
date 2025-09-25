@@ -22,6 +22,10 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
   Built on Pygame, it includes scene management, transitions, audio handling, save/load, and a debug-ready pause menu.  
   Designed for students, solo devs, and anyone building polished 2D games in Python.
 
+🏓 [**PolarisPong**](https://ko-fi.com/s/6a0170822f)
+  - A complete pong-style game showcasing PolarisKit.
+  Includes 4 game modes, paddle/ball/field customization, achievements, and retro-inspired M64 styling.
+
 ## 🚀 Current Projects
 
 🧩 **PolarisKit**  
@@ -32,9 +36,6 @@ Add seamless gamepad support with automatic fallback to keyboard, plug-and-play 
 
 🗺️ **PolarisKit Tiled Expansion** *(In Progress)*  
 Load Tiled map files with the PolarisTileEngine, great for top-down or tile-based level layouts
-
-🏓 **PolarisPong** *(In Development)*  
-A fully-featured pong-style game with 4 game modes, ball/paddle/field customization, achievements, and M64 styling
 
 🏎️ **Galactic Tour 64**  
 Top-down arcade racing game with CC unlocks, trophies, multiple cups, and a full single-player game loop
