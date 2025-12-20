@@ -40,6 +40,9 @@ Load Tiled map files with the PolarisTileEngine, great for top-down or tile-base
 🏎️ **Galactic Tour 64**  
 Top-down arcade racing game with CC unlocks, trophies, multiple cups, and a full single-player game loop
 
+👽 **Cosmic Invaders**  
+A remake on the classic game Space Invaders, with a roguelike twist, with customization options, skill tree and more!
+
 💻 **SB Studios Website**  
 A central hub for all SB Studios branches, products, and project showcases, built with Astro and Sanity CMS
 
