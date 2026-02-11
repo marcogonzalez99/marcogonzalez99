@@ -1,13 +1,6 @@
-# 🌌 Marco Gonzalez
-
-<div align="center">
-Founder of SB Studios | Full Stack Dev · Game Designer · Builder
-
-<br/>
+# 🌌 Marco Gonzalez | Full Stack Dev · Game Designer · Builder  
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J41IBU2Y)
-
-</div>
 
 ## 👋 About Me
 
@@ -21,11 +14,7 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 - 🍰 [M⌒o’s Bakery]: Cozy-themed experimental baking brand (Branding, Merch)
 - 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
 
----
-
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,14 +32,9 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-</div>
-
 ## 📦 Published Products
 
-<div>
-
 <img src="images/PolarisKitLogo.png" width="400px" alt="PolarisKit Logo">
-
 A modular Python toolkit for beginner game developers.
 Built on Pygame, it includes scene management, transitions, audio handling, save/load, and a debug-ready pause menu.
 
@@ -58,14 +42,9 @@ Built on Pygame, it includes scene management, transitions, audio handling, save
 
 [📥 Purchase on Ko-fi](https://ko-fi.com/s/523b453cae)
 
-</div>
-
 ---
 
-<div>
-
 <img src="images/PolarisPong.png" width="400px" alt="PolarisPong Logo">
-
 A complete pong-style game showcasing PolarisKit's capabilities.
 
 **Features:**
@@ -75,8 +54,6 @@ A complete pong-style game showcasing PolarisKit's capabilities.
 - 🎮 Retro M64 Styling
 
 [📥 Purchase on Ko-fi](https://ko-fi.com/s/6a0170822f)
-
-</div>
 
 ## 🚀 Current Projects
 
