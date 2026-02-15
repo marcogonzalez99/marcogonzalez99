@@ -34,26 +34,42 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 
 ## 📦 Published Products
 
-<img src="images/PolarisKitLogo.png" width="400px" alt="PolarisKit Logo">
-A modular Python toolkit for beginner game developers.
-Built on Pygame, it includes scene management, transitions, audio handling, save/load, and a debug-ready pause menu.
-
-**Perfect for:** Students • Solo Devs • 2D Game Projects
-
-[📥 Purchase on Ko-fi](https://ko-fi.com/s/523b453cae)
-
----
-
-<img src="images/PolarisPong.png" width="400px" alt="PolarisPong Logo">
-A complete pong-style game showcasing PolarisKit's capabilities.
-
-**Features:**
-- ✅ 4 Game Modes
-- 🎨 Full Customization (Paddles, Balls, Fields)
-- 🏆 Achievement System
-- 🎮 Retro M64 Styling
-
-[📥 Purchase on Ko-fi](https://ko-fi.com/s/6a0170822f)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="images/PolarisKitLogo.png" width="360" alt="PolarisKit Logo"><br><br>
+      <details>
+        <summary><strong>About PolarisKit</strong></summary>
+        <br>
+        <div align="left">
+          <strong>PolarisKit</strong> is a 2D game framework for Pygame focused on modular design and scaleability.<br>
+          It features scene stacking, lifecycle hooks, transition management, audio systems, persistent saves, and resolution-aware layout utilities, all organized for scalable development.
+          <br><br>
+          <strong>Ideal for:</strong> Indie developers • Educators
+          <br><br>
+          <a href="https://github.com/marcogonzalez99/PolarisKit">🔍 View Showcase</a>
+          <a href="https://ko-fi.com/s/523b453cae">📥 Purchase on Ko-fi</a>
+        </div>
+      </details>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="images/PolarisPong.png" width="360" alt="PolarisPong Logo"><br><br>
+      <details>
+        <summary><strong>About PolarisPong</strong></summary>
+        <br>
+        <div align="left">
+          <strong>PolarisPong</strong> is a polished, replayable Pong-inspired arcade game, and the first complete game built on <strong>PolarisKit</strong>.<br>
+          It showcases the full framework in action: scene flow, transitions, audio, persistent saves, achievements, and deep customization.
+          <br><br>
+          <strong>Highlights:</strong> Multiple modes • Achievements (saved between sessions) • Skins & backgrounds • Secret challenge + Hall of Fame
+          <br><br>
+          <a href="https://github.com/marcogonzalez99/PolarisPongShowcase">🔍 View Showcase</a>
+          <a href="https://ko-fi.com/s/6a0170822f">📥 Purchase on Ko-fi</a>
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Current Projects
 
