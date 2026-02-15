@@ -38,8 +38,6 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
   <tr>
     <td width="50%" valign="top" align="center">
       <img src="images/PolarisKitLogo.png" width="360" alt="PolarisKit Logo"><br><br>
-      <details>
-        <summary><strong>About PolarisKit</strong></summary>
         <br>
         <div align="left">
           <strong>PolarisKit</strong> is a 2D game framework for Pygame focused on modular design and scaleability.<br>
@@ -50,12 +48,9 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
           <a href="https://github.com/marcogonzalez99/PolarisKit">🔍 View Showcase</a>
           <a href="https://ko-fi.com/s/523b453cae">📥 Purchase on Ko-fi</a>
         </div>
-      </details>
     </td>
     <td width="50%" valign="top" align="center">
       <img src="images/PolarisPong.png" width="360" alt="PolarisPong Logo"><br><br>
-      <details>
-        <summary><strong>About PolarisPong</strong></summary>
         <br>
         <div align="left">
           <strong>PolarisPong</strong> is a polished, replayable Pong-inspired arcade game, and the first complete game built on <strong>PolarisKit</strong>.<br>
@@ -66,19 +61,21 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
           <a href="https://github.com/marcogonzalez99/PolarisPongShowcase">🔍 View Showcase</a>
           <a href="https://ko-fi.com/s/6a0170822f">📥 Purchase on Ko-fi</a>
         </div>
-      </details>
     </td>
   </tr>
 </table>
 
 ## 🚀 Current Projects
 
-<details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-  <summary><b>🧩 PolarisKit Core</b> | Modular Pygame Starter Kit</summary>
-  <br/>
+  ### 🧩 PolarisKit Core
+  **Modular Pygame Starter Kit**
 
-  **Status:** <img src="https://img.shields.io/badge/Completed%20V3.0-blue?style=square"/><br/>
+  <img src="https://img.shields.io/badge/Completed%20V3.0-blue?style=flat-square"/>
+
   **Tech Stack:** Python, Pygame
 
   Comprehensive game development toolkit featuring:
@@ -88,140 +85,117 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
   - 🔊 Audio Management
   - 📐 Scalable Project Structure
 
-  **Links:** [Ko-fi Product](https://ko-fi.com/s/523b453cae)
+  [📥 Ko-fi Product](https://ko-fi.com/s/523b453cae)
 
-</details>
+  </td>
+    <td width="50%" valign="top">
 
----
+### 🎮 PolarisKit Controller Expansion
+**Gamepad Support Module**
 
-<details>
+<img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/>
 
-  <summary><b>🎮 PolarisKit Controller Expansion</b> | Gamepad Support</summary>
-  <br/>
+**Tech Stack:** Python, Pygame, SDL2
 
-  **Status:** <img src="https://img.shields.io/badge/Paused-grey?style=square"/><br/>
-  **Tech Stack:** Python, Pygame, SDL2
+Adding seamless gamepad support with:
+- 🎮 Plug-and-Play Detection
+- ⌨️ Automatic Keyboard Fallback
+- 🔄 Input Abstraction Layer
+- 🎯 Multiple Controller Support
 
-  Adding seamless gamepad support with:
-  - 🎮 Plug-and-Play Detection
-  - ⌨️ Automatic Keyboard Fallback
-  - 🔄 Input Abstraction Layer
-  - 🎯 Multiple Controller Support
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-</details>
+### 🗺️ PolarisKit Tiled Expansion
+**Map Editor Integration**
 
----
+<img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/>
 
-<details>
+**Tech Stack:** Python, Pygame, Tiled
 
-  <summary><b>🗺️ PolarisKit Tiled Expansion</b> | Map Editor Integration </summary>
+Load and render Tiled maps with the PolarisTileEngine:
+- 🗺️ TMX/TSX File Support
+- 🎨 Multi-Layer Rendering
+- 🚪 Object Layer Parsing
+- ⚡ Optimized Tile Rendering
 
-  <br>
+</td>
+    <td width="50%" valign="top">
 
-  **Status:** <img src="https://img.shields.io/badge/Paused-grey?style=square"/><br/>
-  **Tech Stack:** Python, Pygame, Tiled
+### 🏎️ Galactic Tour 64
+**Top-Down Arcade Racer**
 
-  Load and render Tiled maps with the PolarisTileEngine:
-  - 🗺️ TMX/TSX File Support
-  - 🎨 Multi-Layer Rendering
-  - 🚪 Object Layer Parsing
-  - ⚡ Optimized Tile Rendering
+<img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/>
 
-</details>
+**Tech Stack:** Python, Pygame, Tiled
 
----
+Features:
+- 🏁 Multiple Racing Cups
+- 🏆 Trophy & Unlock System
+- 🎮 CC Class Progression
+- 🎵 Original M64-Style Soundtrack
 
-<details>
+[🔍 Showcase Repo](https://github.com/marcogonzalez99/GalacticKart64Showcase)
 
-  <summary><b>🏎️ Galactic Tour 64</b> | Top-Down Arcade Racer</summary>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-  <br>
+### 👽 Cosmic Invaders
+**Roguelike Space Shooter**
 
-  **Status:** <img src="https://img.shields.io/badge/Paused-grey?style=square"/><br/>
-  **Tech Stack:** Python, Pygame, Tiled
+<img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
 
-  Features:
-  - 🏁 Multiple Racing Cups
-  - 🏆 Trophy & Unlock System
-  - 🎮 CC Class Progression
-  - 🎵 Original M64-Style Soundtrack
+**Tech Stack:** Python, Pygame
 
-  **Links:** [Showcase Repo](https://github.com/marcogonzalez99/GalacticKart64Showcase)
+A Space Invaders remake with roguelike elements:
+- 🌳 Skill Tree Progression
+- 🎨 Ship Customization
+- 🎲 Procedural Enemy Waves
+- ⚡ Power-Up System
 
-</details>
+</td>
+    <td width="50%" valign="top">
 
----
+### 💻 SB Studios Website
+**Central Hub for All Branches**
 
-<details>
+<img src="https://img.shields.io/badge/In%20Development-yellow?style=flat-square"/>
 
-  <summary><b>👽 Cosmic Invaders</b> | Roguelike Space Shooter</summary>
+**Tech Stack:** Astro, Sanity CMS, TypeScript
 
-  <br>
+Features:
+- 📱 Responsive Design
+- 📝 Dynamic Content Management
+- 🎨 Branch-Specific Pages
+- 🛒 Product Integration
 
-  **Status:** <img src="https://img.shields.io/badge/In%20Progress-orange?style=square"/><br/>
-  **Tech Stack:** Python, Pygame, Tiled
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-  A Space Invaders remake with roguelike elements:
-  - 🌳 Skill Tree Progression
-  - 🎨 Ship Customization
-  - 🎲 Procedural Enemy Waves
-  - ⚡ Power-Up System
+### 🎮 M64 Custom Console
+**Hardware Gaming Device**
 
-</details>
+<img src="https://img.shields.io/badge/In%20Development-yellow?style=flat-square"/>
 
----
+**Tech Stack:** Raspberry Pi, 3D Printing, Electronics
 
-<details>
+A compact gaming console designed from scratch:
+- 🖨️ Custom Case Design
+- 🔌 Hardware Wiring & Assembly
+- 🎮 Original Game Support
+- 📺 HDMI Output
 
-  <summary><b>💻 SB Studios Website</b> | Central Hub for All Branches</summary>
-
-  <br>
-
-  **Status:** <img src="https://img.shields.io/badge/In%20Development-yellow?style=square"/><br/>
-  **Tech Stack:** Astro, Sanity CMS, Typescript
-
-  Features:
-  - 📱 Responsive Design
-  - 📝 Dynamic Content Management
-  - 🎨 Branch-Specific Pages
-  - 🛒 Product Integration
-
-</details>
-
----
-
-<details>
-
-  <summary><b>🎮 M64 Custom Console</b> | Hardware Gaming Device</summary>
-
-  <br>
-
-  **Status:** <img src="https://img.shields.io/badge/In%20Development-yellow?style=square"/><br/>
-  **Tech Stack:** Raspberry Pi, 3D Printing, Electronics
-
-  A compact gaming console designed from scratch:
-  - 🖨️ Custom Case Design
-  - 🔌 Hardware Wiring & Assembly
-  - 🎮 Original Game Support
-  - 📺 HDMI Output
-
-</details>
-
----
-
-## 🔗 Explore Showcases
-
-<div>
-
-| Project | Description | Link |
-|---------|-------------|------|
-| 🧩 **PolarisKit** | 2D Game Engine | [View](https://github.com/marcogonzalez99/PolarisKitShowcase) |
-| 🌙 **Callisto's Trial** | Space Themed Rogue-like | [View](https://github.com/marcogonzalez99/CallistosTrialShowcase) |
-| 🏓 **PolarisPong** | Pong Remake | [View](https://github.com/marcogonzalez99/PolarisPongShowcase) |
-| 🏎️ **Galactic Tour 64** | Arcade Racing Game | [View](https://github.com/marcogonzalez99/GalacticKart64Showcase) |
-
-
-</div>
+</td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ## 🔐 About Code Access
 
