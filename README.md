@@ -193,7 +193,21 @@ A compact gaming console designed from scratch:
 
 </td>
     <td width="50%" valign="top">
-    </td>
+
+### 💻 Pathways
+**Custom Link In Bio Website***
+
+<img src="https://img.shields.io/badge/In%20Development-yellow?style=flat-square"/>
+
+**Tech Stack:** Astro, TailwindCSS, JSON
+
+A link in bio website, allowing for quick navigation across all branches of SB Studios
+- 🎨 Personal
+- 🧗‍♂️ SkyHolds
+- 🎵 Shineburst
+- 🎮 PolarisStudios
+
+</td>
   </tr>
 </table>
 
