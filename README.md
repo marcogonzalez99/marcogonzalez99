@@ -197,7 +197,7 @@ A compact gaming console designed from scratch:
 ### 💻 Pathways
 **Custom Link In Bio Website***
 
-<img src="https://img.shields.io/badge/In%20Development-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
 
 **Tech Stack:** Astro, TailwindCSS, JSON
 
