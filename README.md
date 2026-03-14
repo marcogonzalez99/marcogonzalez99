@@ -1,20 +1,29 @@
-# 🌌 Marco Gonzalez | Full Stack Dev · Game Designer · Builder  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=175&section=header&text=Marco%20Gonzalez&fontSize=70&fontColor=fff&animation=fadeIn&desc=SB%20Studios%20Founder%20%7C%20Full%20Stack%20Dev%20%7C%20Game%20Designer%20%7C%20Builder&descSize=20&descAlignY=80)
+
+
+<div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J41IBU2Y)
 
+</div>
+
+
+
 ## 👋 About Me
 
-Hi, I'm Marco, a developer and designer working across games, tools, music, and hardware under the SB Studios banner.
+Solo Developer, Game Designer, and Creative Technologist with a passion for building original games, tools, and hardware projects. I founded SB Studios to bring my creative visions to life across multiple branches, from game development to music and even astrophotography.
 
-## What I Work On
-- 🎮 [Polaris Studios]: 2D games & custom engine tooling (Galactic Tour 64, Callisto’s Trial)
-- 🧪 [Nebulab]: Developer utilities and web tools (ZPL Generator, Portfolio Tools)
-- 🎵 [Shineburst]: Music, vinyl, and creative expression (Original Music, Merch Vinyls)
-- 🕹️ [Lunarcade Studios]: Hardware builds and retro game projects (Desktop Arcade Cabinet)
-- 🍰 [M⌒o’s Bakery]: Cozy-themed experimental baking brand (Branding, Merch)
-- 🌌 [Mosaic Skies]: Astrophotography, Space Visuals, and Celestial Art
+## 🏢 What I Work On
+- 🎮 **PolarisStudios**: 2D games & custom engine tooling (Galactic Tour 64, Callisto’s Trial)
+- 🧪 **Nebulab**: Developer utilities and web tools (ZPL Generator, Portfolio Tools)
+- 🎵 **Shineburst**: Music, vinyl, and creative expression (Original Music, Merch Vinyls)
+- 🕹️ **Lunarcade Studios**: Hardware builds and retro game projects (Desktop Arcade Cabinet)
+- 🍰 **M⌒o’s Bakery**: Cozy-themed experimental baking brand (Branding, Merch)
+- 🌌 **Mosaic Skies**: Astrophotography, Space Visuals, and Celestial Art
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +40,8 @@ Hi, I'm Marco, a developer and designer working across games, tools, music, and 
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
 
 ## 📦 Published Products
 
@@ -194,8 +205,8 @@ A compact gaming console designed from scratch:
 </td>
     <td width="50%" valign="top">
 
-### 💻 Pathways
-**Custom Link In Bio Website***
+### 🌐 Pathways
+**Custom Link In Bio Website**
 
 <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
 
@@ -213,11 +224,7 @@ A link in bio website, allowing for quick navigation across all branches of SB S
 
 ## 🔐 About Code Access
 
-<div align="center">
-
 > 💼 **For Employers, Recruiters, & Collaborators**
-
-</div>
 
 Most of my work lives in **private repositories** to protect the IP behind SB Studios games, tools, and hardware projects.
 I'm a solo developer building original content from the ground up, from the game engine to the physical console.
