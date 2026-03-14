@@ -87,7 +87,9 @@ Solo Developer, Game Designer, and Creative Technologist with a passion for buil
 
   <img src="https://img.shields.io/badge/Completed%20V3.0-blue?style=flat-square"/>
 
-  **Tech Stack:** Python, Pygame
+  **Tech Stack:** Python, Pygame </br>
+  **Showcase**: [View Here!](https://github.com/marcogonzalez99/PolarisKitShowcase) </br>
+  **Get Free on Kofi!**: [Download Here!](https://ko-fi.com/s/523b453cae) </br>
 
   Comprehensive game development toolkit featuring:
   - 🎬 Scene Management System
@@ -95,8 +97,6 @@ Solo Developer, Game Designer, and Creative Technologist with a passion for buil
   - 💾 Save/Load Functionality
   - 🔊 Audio Management
   - 📐 Scalable Project Structure
-
-  [📥 Ko-fi Product](https://ko-fi.com/s/523b453cae)
 
   </td>
     <td width="50%" valign="top">
@@ -106,7 +106,8 @@ Solo Developer, Game Designer, and Creative Technologist with a passion for buil
 
 <img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/>
 
-**Tech Stack:** Python, Pygame, SDL2
+**Tech Stack:** Python, Pygame, SDL2 </br>
+**Showcase:** [View Here!](https://github.com/marcogonzalez99/PolarisKitControllerExpansionShowcase)
 
 Adding seamless gamepad support with:
 - 🎮 Plug-and-Play Detection
@@ -124,7 +125,8 @@ Adding seamless gamepad support with:
 
 <img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/>
 
-**Tech Stack:** Python, Pygame, Tiled
+**Tech Stack:** Python, Pygame, Tiled </br>
+**Showcase:** [View Here!](https://github.com/marcogonzalez99/PolarisKitTiledExpansionShowcase)
 
 Load and render Tiled maps with the PolarisTileEngine:
 - 🗺️ TMX/TSX File Support
@@ -138,9 +140,10 @@ Load and render Tiled maps with the PolarisTileEngine:
 ### 🏎️ Galactic Tour 64
 **Top-Down Arcade Racer**
 
-<img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Paused-grey?style=flat-square"/> 
 
-**Tech Stack:** Python, Pygame, Tiled
+**Tech Stack:** Python, Pygame, Tiled </br>
+**Showcase:** [View Here!](https://github.com/marcogonzalez99/GalacticKart64Showcase)
 
 Features:
 - 🏁 Multiple Racing Cups
@@ -148,7 +151,7 @@ Features:
 - 🎮 CC Class Progression
 - 🎵 Original M64-Style Soundtrack
 
-[🔍 Showcase Repo](https://github.com/marcogonzalez99/GalacticKart64Showcase)
+
 
 </td>
   </tr>
@@ -160,7 +163,8 @@ Features:
 
 <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
 
-**Tech Stack:** Python, Pygame
+**Tech Stack:** Python, Pygame </br>
+**Showcase:** [View Here!](https://github.com/marcogonzalez99/CosmicInvadersShowcase)
 
 A Space Invaders remake with roguelike elements:
 - 🌳 Skill Tree Progression
@@ -210,7 +214,9 @@ A compact gaming console designed from scratch:
 
 <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
 
-**Tech Stack:** Astro, TailwindCSS, JSON
+**Tech Stack:** Astro, TailwindCSS, Typescript </br>
+**Live Link**: *Coming Soon!* </br>
+**Showcase:** [View Here!](https://github.com/marcogonzalez99/PathwaysShowcase)
 
 A link in bio website, allowing for quick navigation across all branches of SB Studios
 - 🎨 Personal
